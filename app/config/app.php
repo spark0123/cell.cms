@@ -113,7 +113,7 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-		'GrahamCampbell\Dropbox\DropboxServiceProvider',
+		//'GrahamCampbell\Dropbox\DropboxServiceProvider',
 
 	),
 
@@ -154,7 +154,7 @@ return array(
 		'Cookie'          => 'Illuminate\Support\Facades\Cookie',
 		'Crypt'           => 'Illuminate\Support\Facades\Crypt',
 		'DB'              => 'Illuminate\Support\Facades\DB',
-		'Dropbox' => 'GrahamCampbell\Dropbox\Facades\Dropbox',
+		//'Dropbox' => 'GrahamCampbell\Dropbox\Facades\Dropbox',
 		'Eloquent'        => 'Illuminate\Database\Eloquent\Model',
 		'Event'           => 'Illuminate\Support\Facades\Event',
 		'File'            => 'Illuminate\Support\Facades\File',

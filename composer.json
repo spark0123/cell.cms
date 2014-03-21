@@ -4,8 +4,7 @@
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.1.*",
-		"graham-campbell/dropbox": "0.1.*@dev"
+		"laravel/framework": "4.0.*"
 	},
 	"autoload": {
 		"classmap": [
