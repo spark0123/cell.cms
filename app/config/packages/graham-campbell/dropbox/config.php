@@ -45,8 +45,8 @@ return array(
 
         'main' => array(
             'driver' => 'dropbox',
-            'token'  => 'your-token',
-            'app'    => 'your-app'
+            'token'  => 'hlM4jEXMOm0AAAAAAAAAATFSlWkeFbsU9xjEY3mU1jqKn2IDnhdbbQqcErD34jzg',
+            'app'    => 'ekvk800hp5lhkay'
         ),
 
         'alternative' => array(
